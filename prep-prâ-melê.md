@@ -1,7 +1,7 @@
 Où
 ---
 
-Sur de la pâture, terre riche, l'idéal est de semer une céréale quia
+Sur de la pâture, terre riche, l'idéal est de semer une céréale qui a
 besoin de beaucoup de nutriment. Par exemple une des sortes de blés
 sativa (Pizza, Scaro, Wiwa,...) Il est aussi possible de semer des
 céréales qui ont besoin de moins, comme le seigle, l'engrain,
@@ -82,6 +82,11 @@ Les céréales vêtues (engrain, épautre, ...) nécessitent une
 décortiqueuse avant d'être moulues. Par exemple
 http://www.moulins-alma.pro/fr/6-decorticage ou
 http://farmhack.org/tools/dehullerflour-mill
+
+Références moulins
+------------------
+
+* [[Moulins Alma][http://www.moulins-alma.pro]]
 
 Références
 ----------
