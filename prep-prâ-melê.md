@@ -83,16 +83,51 @@ décortiqueuse avant d'être moulues. Par exemple
 http://www.moulins-alma.pro/fr/6-decorticage ou
 http://farmhack.org/tools/dehullerflour-mill
 
-Références moulins
-------------------
+Références moulins à pierre non-Astrié
+--------------------------------------
 
-* [[Moulins Alma][http://www.moulins-alma.pro]]
+* Moulins Alma: http://www.moulins-alma.pro . Meules de 30cm
+  (8-12kg/h) à 150cm (130 à 300kg/h). Proposent des tamiseuses avec
+  transport entre le moulin et la tamiseuse avec des godets ou
+  pneumatique.
 
-Références
-----------
+* Moulins Waldner-biotech: https://www.waldner-biotech.at . Meules de
+  30cm (15-20kg/h) à 150cm (180-320 kg/h). Avec ou sans tamiseuses.
+
+* Osttiroler Getreidemühlen: https://www.getreidemuehlen.com . Meules
+  de 30cm (18 - 30 kg/h) à 160cm (400 - 500 kg/h).
+
+Références moulin Astrié
+------------------------
+
+* Astreia: https://www.moulin-astreia.com/
+
+* L'atelier Pais de Samuel Poilane, qui a travaillé avec les frères
+  Astrié
+
+* Les moulins MAFAF
+
+* Les compagnons de l'audace, https://lescompagnonsdelaudace1.jimdo.com/
+
+* Philippe Lauze 
+
+* http://moulinfarine.com
+
+* Moulin Aster: http://www.moulinaster.fr.sitew.com
+
+* Un article sur la différence entre moulin Astrié et moulin du Tirol:
+  http://www.boulangerie.net/forums/viewtopic.php?t=75547
+
+Autres références
+-----------------
 
 * Sativa, pour la commande de céréales bio: http://www.sativa-rheinau.ch
 
 * un fiche sur les rotations: https://www.ecofog.gf/giec/doc_num.php?explnum_id=1728
 
 * la banque de donnée nationale suisse qui conserve les céréales: https://www.bdn.ch/
+
+* Document sur la mouture sur cylindre et sur pierre ainsi que sur la
+  bluterie:
+  https://drive.google.com/file/d/0B7aFDXJcR6VmLWhpNDBreWxyOGc/view
+
