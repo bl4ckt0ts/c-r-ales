@@ -1,5 +1,4 @@
-Seigle
-------
+# Seigle
 
 L'objectif est de semer quelques ares de seigle.
 
@@ -16,8 +15,7 @@ sources.
 
 Il a un rendement de 3 à 5 tonnes par ha.
 
-Semences:
-+++++++++
+## Semences:
 
 Sativa fournit des semences pour la variété RECRUT, en seigle
 d'automne. Il faut compter 120 à 150kg par hectares de semis, soit 300
@@ -43,13 +41,15 @@ http://www.muehlerytz.ch/index.php/fr/bio-f/semence Je les ai contacté
 pour avoir des infos, j'attends une réponse.
 
 La dernière possibilité que j'ai en tête, c'est d'achter à mon meunier
-quelques sacs de graines. Les semences ne seront pas triées et ça a le
+quelques sacs de graines. Les graines sont triées avec moins de soin
+que pour des semences et ça a le
 risque qu'il peut y avoir des graines de mauvaises herbes cachées
 dedans (rumex, par exemple). L'avantage est que ça sera 2 à 3 fois
-moins cher que Sativa.
+moins cher que Sativa. Par exemple, chez SAT-Mühle, c'est à CHF 73.50 
+les 25kg. À la ferme du petit noyer, on est à CHF 62.50 les 25kg. À ma
+compréhension, les céréales sont mieux triées chez SAT-Mühle à Schönenbühl.
 
-Références
-----------
+## Références
 
 * Un document français qui résume la culture du seigle:
   http://www.yonne.chambagri.fr/uploads/media/Seigle.pdf
